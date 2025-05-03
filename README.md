@@ -14,7 +14,6 @@ UI/UX Practice – Replicating CapCut's layout, design system, animations, and r
 - Responsive design for mobile and desktop views
 - Footer with links and social icons
   
-![]([Screenshot 2025-05-03 183046](https://github))
 
 ## SKILLS
 * HTML
